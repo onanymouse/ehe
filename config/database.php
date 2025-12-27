@@ -1,9 +1,9 @@
 <?php
 class Database {
     private $host = "localhost";
-    private $db_name = "awgnetbi_dvd"; // Ganti ini
-    private $username = "awgnetbi_dvd"; // Ganti ini
-    private $password = "-Z%_tf7GWeRiY[9#"; // Ganti ini
+    private $db_name = "-"; // Ganti ini
+    private $username = "-"; // Ganti ini
+    private $password = "-"; // Ganti ini
     public $conn;
 
     public function getConnection() {
